@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+pydantic
+transformers
+mysqlclient
+python-jose[cryptography]
+python-dotenv
+openai
+google-generativeai
+slowapi
+pydantic_settings
+uvicorn[standard]
+python-multipart
+google.genai 
+slowapi
