@@ -1,6 +1,6 @@
 # Plataforma Web para la Generación de Documentación Médica Automatizada
 
-Esta aplicación web fue desarrollada como parte de un proyecto de grado en ingeniería de software, con el objetivo de optimizar los procesos de documentación clínica mediante inteligencia artificial. La plataforma combina un backend construido con FastAPI y un frontend desarrollado con React, permitiendo la transcripción de audio y la generación automática de historias clínicas, además de ofrecer un chat interactivo para consultas médicas en tiempo real.
+Esta aplicación web fue desarrollada como parte de un proyecto de grado en ingenieria de sistemas, con el objetivo de optimizar los procesos de documentación clínica mediante inteligencia artificial. La plataforma combina un backend construido con FastAPI y un frontend desarrollado con React, permitiendo la transcripción de audio y la generación automática de historias clínicas, además de ofrecer un chat interactivo para consultas médicas en tiempo real.
 
 🚀 **Características Principales**
 
